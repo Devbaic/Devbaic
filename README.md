@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/6xK4hO4s0sAAAAAC/sung-jinwoo-solo-leveling.gif" width="100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeno1NHFoZ2dzMHhqNTM5a3Bvdjd5dXZ2dDcxYmg2ZjMwZnB1Znk4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xZtiiQqMPXsmRDRzBM/giphy.gif" width="50%" />
 
 # 🌑 𝙇𝙐𝙔 「 𝙎𝙃𝘼𝘿𝙊𝙒 𝙈𝙊𝙉𝘼𝙍𝘾𝙃 」 🌑
 
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://imgs.search.brave.com/b5dSiztXgPSY3u0-jXTbky9RK_AwmgppBFi10YpvOSA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhObkl4YTNJM2JI/QnhlV0kyYURObGFH/Z3paV3MwYWpWdWFH/dG9kR2x2T0dJMWFU/WmxkR2gwZUNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vWGxjSFphTGVI/MjlPVHZSZDF6LzIw/MC5naWY.gif"/>
+<img width="49%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2J3N2FvMWR3d3Bia21sOXAyc2prcXZld3o5MTl5MTVjb2RhZGFldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IvoysZG4Zn5a4cWBZA/giphy.gif"/>
 
 
 
@@ -85,7 +85,7 @@
 
 <div align="center">
 
-<img src="https://imgs.search.brave.com/jr4WzFFbZATSOPuUp1GIK6pVwlqUMWHX93Jfu0fx4Lc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhibXhpYVhjd2Vt/cG1jak54WVRJeWRH/VXpOVGhpTVhBNWVH/RjVNakpwWnpCbWEy/d3pNRGt3TXlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4veVN2aEZ4cTZa/NExyYnFhaWtKLzIw/MC5naWY.gif"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNmZDc1ODExODFrc2F2cXd1MGk1Nmg2dGFjZHozNm9nYXl4bTN2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H2jIUYiGmNjoamUK37/giphy.gif"/>
 
 </div>
 
@@ -121,7 +121,7 @@
 
 <div align="center">
 
-<img src="https://imgs.search.brave.com/f9ci1Fk5iFpFNwoE1pyiqKM2qQVSMtjT0dZWs__0Fos/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvc3VuZy1q/aW4td29vLWZhY2lu/Zy1tb25zdGVycy1q/amRhYnJqdnh1MDRk/NHVwLmdpZg.gif" width="100%" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb216cHI4MzgycnJldXU0czRrb3g3c3Q2d25jd3Z4N3hqbzU0dG01cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" width="100%" />
 
 ## ⚔️ ARISE ⚔️
 
@@ -143,7 +143,7 @@
 
 <div align="center">
 
-<img src="https://media.tenor.com/m7D0Q4D3d3YAAAAC/sung-jinwoo-solo-leveling.gif" width="100%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZsdmpvNGN4OXg2aW4yeHAyanY3bTc2cXFqamxvbHh6bm80aHMxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yLTXaltlhwI9i0S3DX/giphy.gif" width="100%" />
 
 # ✨ “I Decide My Own Worth.”
 
@@ -158,19 +158,19 @@
 <div align="center">
 
 <a href="https://github.com/Devbaic">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczR4Mm53bXB5cHFtczc4Y21tNjBlb241czVnaTQ3dTEyeGEybHRpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="15%"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNml1YWJobGV1bTI5ZG1vNWVrYm9lcndqYWNsZHM5b3BxdjB1cHJqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1FlPbQaf7MXLy/giphy.gif"width="15%"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2s3anN2ajhpODM3Mms5dTloNW5meTF1c2ZzNDQ3aGZveGRsaXQ3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ya4eevXU490Iw/giphy.gif"width="15%"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNod3FnMzdxODFwbzlnMmFsNTd2dXpnZzF4bHNiZHcwZG8xczkzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aOften89vRbG/giphy.gif"width="15%"/>
 </a>
 
 </div>
