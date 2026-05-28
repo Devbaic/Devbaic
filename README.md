@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java,laravel,mysql,tailwind,bootstrap,docker,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,laravel,mysql,tailwind,bootstrap,docker,git,github,vscode,cloudflare,figma,c#" />
 
 </div>
 
