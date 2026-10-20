@@ -2,6 +2,11 @@
 
 <img src="./header.svg" alt="Shadow Monarch" width="100%"/>
 
+<!-- ===== NEOFETCH BANNER: ប្តូរឈ្មោះឯកសារដើម្បីប្តូរបែប =====
+     variant: mono | color | dots | photo      theme: shadow | blood | arise
+     ឧ. ./neofetch/photo-arise.svg -->
+<img src="./neofetch/dots-shadow.svg" alt="neofetch" width="100%"/>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Student+%26+Full+Stack+Developer;Shadow+Monarch+Developer;Building+Powerful+Applications;Main+Quest%3A+Become+Elite+Software+Engineer" alt="typing"/></a>
 
 ![Country](https://img.shields.io/badge/Cambodia-🇰🇭-a855f7?style=for-the-badge&labelColor=0d1117)
